@@ -10,3 +10,5 @@ compter_nombre_d_adjoints <- function(x){
 }
 
 compter_nombre_d_adjoints(df_Gers)
+
+#Il est possible de simplifier le code pour ne pas avoir 3 lignes de copié-collé
