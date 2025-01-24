@@ -25,12 +25,3 @@ df_Loire_Atlantique <- data_exercice[
 
 df_Gers <- data_exercice[
   data_exercice$Libellé.du.département == "Gers", ]
-
-
-
-  
-  
-
-
-
-  
