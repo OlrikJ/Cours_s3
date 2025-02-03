@@ -8,7 +8,7 @@ compter_nombre_d_elus <- function(x) {
   return(nombre_uniques)
 }
 
-compter_nombre_d_elus(df_faverelles)
+compter_nombre_d_elus(df_Loire_Atlantique)
 
 
-
+#A rajouter un contrôle pour afficher un message d'erreur si "même schéma que notre jeu de données data"
